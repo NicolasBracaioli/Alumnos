@@ -49,7 +49,7 @@ function enviar() {
   </form>
   <br />
 
-  <h1>Listado de Alumnooos</h1>
+  <h1>Listado de Alumnos</h1>
   <br />
   <table>
     <tr>
